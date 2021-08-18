@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://www.instagram.com/charvaakan/">
-  <img align="left" alt="Vishnudas LinkedIN" width="22px" src="https://img.icons8.com/ios/64/000000/external-instagram-social-media-justicon-lineal-color-justicon.png" />
+  <img align="left" alt="Vishnudas LinkedIN" width="22px" src="insta_logo.svg" />
  </a>
  
 <a href="https://twitter.com/vishnudasbluef1">
