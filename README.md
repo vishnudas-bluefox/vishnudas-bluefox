@@ -24,10 +24,8 @@ Here are some ideas to get you started:
   <img align="left" alt="Vishnudas LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
  </a>
  
+<br><br>
 
-
-  
-  
   hi, i'm [Vishnudas v](http://gitcub.co/), a passionate self-taught Python developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
