@@ -13,15 +13,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...social being & Science lover
 -->
 
-
-<img src="{https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white}" />
-
+<a href="https://www.instagram.com/charvaakan/">
+  <img align="left" alt="Vishnudas LinkedIN" width="22px" src="https://img.icons8.com/ios/64/000000/external-instagram-social-media-justicon-lineal-color-justicon.png" />
+ </a>
+ 
 <a href="https://twitter.com/vishnudasbluef1">
   <img align="left" alt="Vishnudas | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/vishnudas-python-developer/">
   <img align="left" alt="Vishnudas LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
  </a>
+ 
+
 
   
   
@@ -36,4 +39,14 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 - 💬 ask me about anything, i am happy to help;
 
 **languages and tools:**  
+
+<code><img height="50" src="https://img.icons8.com/color/50/000000/python.png"></code>
+<code><img height="40" src="https://static.djangoproject.com/img/logos/django-logo-positive.png"></code>
+<code><img height="50" src="https://cdn.freelogovectors.net/wp-content/uploads/2019/02/OpenCV_Logo.png"></code>
+<code><img height="50" src="https://www.nicepng.com/png/full/400-4009326_google-assistant-logo-png.png"></code>
+<code><img height="50" src="https://img.icons8.com/color/48/000000/c-programming.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="50" src="https://img.icons8.com/color/48/000000/linux--v2.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
