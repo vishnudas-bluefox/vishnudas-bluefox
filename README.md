@@ -76,9 +76,9 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vishnudas-bluefox&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vishnudas-bluefox&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vishnudas-bluefox&theme=github_dark)
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vishnudas-bluefox&theme=github_dark">
 
 
 
