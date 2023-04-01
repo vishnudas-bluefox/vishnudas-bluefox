@@ -41,7 +41,6 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 ### languages and tools:
 
-
 <img height="40" src="https://upload.wikimedia.org/wikiversity/en/8/8c/FastAPI_logo.png"/>
 <img height="40" src="https://img.icons8.com/stickers/100/000000/python.png"/>
 <img src="https://img.icons8.com/ios/50/000000/django.png"/>
@@ -64,18 +63,26 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
 <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-lua-is-a-lightweight-multi-paradigm-programming-language-logo-shadow-tal-revivo.png"/>
 <img src="https://img.icons8.com/ios-filled/50/000000/flask.png"/>
+ <div/>
 
+<break>
+ 
 
+ 
+ 
+ <p>
+<div align="bottom">
+<img align="" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vishnudas-bluefox&theme=github_dark">
+<img align="" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vishnudas-bluefox&theme=github_dark">
 
-
-<div align="center">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vishnudas-bluefox&theme=github_dark">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vishnudas-bluefox&theme=github_dark">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vishnudas-bluefox&theme=github_dark">
-</div>
-
-______
+<div/>
+<!--
+ <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vishnudas-bluefox&theme=github_dark">
+    -->
 <p align="center">
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈<br>
 <a href="https://buymeacoffee.com/vishnudas" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a><br>
 </p>
+
+  </div>
+ <p/>
