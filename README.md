@@ -36,59 +36,35 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
   
 
 
-<div align="center">
+<div align="">
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" height="320" />
 
 ### languages and tools:
 
 
-<div align="center">
-<div align="center">
-<div align="center">
-<div align="center">
-<div align="center">
-<div align="center">
-<code>
+<img height="40" src="https://upload.wikimedia.org/wikiversity/en/8/8c/FastAPI_logo.png"/>
 <img height="40" src="https://img.icons8.com/stickers/100/000000/python.png"/>
-</code> <br>
-</div>
-<code>
 <img src="https://img.icons8.com/ios/50/000000/django.png"/>
 <img height="40" src="https://img.icons8.com/dotty/80/000000/api-settings.png"/> 
-</code> <br>
-</div>
-<code>
 <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
 <img src="https://img.icons8.com/color/48/000000/css3.png"/>
 <img src="https://img.icons8.com/color/48/000000/figma--v1.png"/>
-</code><br>
-</div>
-<code>
 <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
 <img src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
 <img src="https://img.icons8.com/color/48/000000/firebase.png"/>
 <img src="https://img.icons8.com/color/48/000000/docker.png"/>
-</code> <br>
-</div>
-<code>
 <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
 <img src="https://img.icons8.com/officel/40/000000/selenium-test-automation.png"/>
 <img src="https://img.icons8.com/color/48/000000/web-scraper.png"/>
 <img src="https://img.icons8.com/color/48/000000/git.png"/>
 <img src="https://img.icons8.com/color/48/000000/linux--v1.png"/>
-</code> <br>
-</div>
-<code>
 <img src="https://img.icons8.com/color/48/000000/ruby-programming-language.png"/>
 <img src="https://img.icons8.com/office/40/000000/copyright.png"/>
 <img src="https://img.icons8.com/color/48/000000/c-plus-plus.png"/>
 <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
 <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-lua-is-a-lightweight-multi-paradigm-programming-language-logo-shadow-tal-revivo.png"/>
 <img src="https://img.icons8.com/ios-filled/50/000000/flask.png"/>
-</code> <br>
-</div>
 
-</div>
 
 
 ______
