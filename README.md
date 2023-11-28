@@ -1,36 +1,24 @@
 <a href="#"><img width="850px" height="550px" src="22.svg" /></a>
+ <p align="center">
+  <a href="https://www.instagram.com/charvaakan/">
+  <img align="left" alt="Vishnudas LinkedIN" width="36px" src="insta_logo.svg" />
+ </a>
+<a href="https://twitter.com/vishnudasbluef1">
+  <img align="left" alt="Twitter" width="36px" src="https://cdn-icons-png.flaticon.com/512/3670/3670151.png" />
+</a>
+<a href="https://www.linkedin.com/in/vishnudas-python-developer/">
+  <img align="left" alt="LinkedIN" width="36px" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" />
+ </a>
+ </p>
+ <br>
 
 ### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on django
-- 🌱 I’m currently learning back-end
-- 👯 I’m looking to collaborate on Python projects
-- 🤔 I’m looking for help with python projects
-- 💬 Ask me about tech related stuff
- 😄 Pronouns: ...He/Him
-- ⚡ Fun fact: ...Social Being & Science lover
--->
-
-- 📫 How to reach me: 
-<a href="https://www.instagram.com/charvaakan/">
-  <img align="left" alt="Vishnudas LinkedIN" width="22px" src="insta_logo.svg" />
- </a>
-<a href="https://twitter.com/vishnudasbluef1">
-  <img align="left" alt="Vishnudas | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/vishnudas-python-developer/">
-  <img align="left" alt="Vishnudas LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
- </a>
-<br>
-
-<br><br>
 
    hi, i'm [Vishnudas v](http://gitcub.co/), a passionate self-taught Python developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
-- 💼 any freelance work? do reach, [email](mailto:vishnudas956783@gmail.com) :)
+- 💼 Hire => [email](mailto:vishnudas956783@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
 
   
@@ -79,6 +67,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <!--
  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vishnudas-bluefox&theme=github_dark">
     -->
+ 
 <p align="center">
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈<br>
 <a href="https://buymeacoffee.com/vishnudas" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a><br>
@@ -86,3 +75,4 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈<br>
 
   </div>
  <p/>
+
