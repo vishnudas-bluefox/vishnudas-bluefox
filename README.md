@@ -24,43 +24,10 @@ class BlueFoxDev:
     def __init__(self):
         self.name = "Vishnudas"
         self.role = "System Architect & Full Stack Developer"
-        self.location = "/home/bluefox/workspace"
-        self.open_source = {
-            "material_charts": "https://pub.dev/packages/material_charts",
-            "github": "https://github.com/vishnudas-bluefox/material_charts"
-        }
-        self.portfolio = "https://vishnudas.netlify.app"
-        
-    def get_tech_stack(self):
-        return {
-            "languages": ["Python", "JavaScript", "C/C++", "Java", "Dart", "Lua", "Ruby"],
-            "backend": ["FastAPI", "Django", "Flask", "Node.js"],
-            "databases": ["MongoDB", "PostgreSQL", "MySQL", "Firebase", "DynamoDB"],
-            "messaging": ["Redis", "RabbitMQ"],
-            "devops": ["AWS", "Docker", "CI/CD"]
-        }
 
     def get_current_status(self):
         return "Building scalable systems and crafting elegant code"
 ```
-
-</div>
-
-```bash
-[root@bluefox ~]# tree ./skills/
-```
-
-<div align="center">
-
-| 💻 Programming | 🔧 Backend | 🗄️ Databases | ☁️ DevOps |
-|:-------------:|:----------:|:------------:|:---------:|
-| Python | FastAPI | MongoDB | AWS |
-| JavaScript | Django | PostgreSQL | Docker |
-| C/C++ | Flask | MySQL | CI/CD |
-| Java | Node.js | Firebase | EC2 |
-| Dart | Redis | DynamoDB | S3 |
-| Lua | RabbitMQ | | Lambda |
-| Ruby | | | |
 
 </div>
 
