@@ -1,78 +1,105 @@
-<a href="#"><img width="850px" height="550px" src="22.svg" /></a>
- <p align="center">
-  <a href="https://www.instagram.com/charvaakan/">
-  <img align="left" alt="Vishnudas LinkedIN" width="36px" src="insta_logo.svg" />
- </a>
-<a href="https://twitter.com/vishnudasbluef1">
-  <img align="left" alt="Twitter" width="36px" src="https://cdn-icons-png.flaticon.com/512/3670/3670151.png" />
-</a>
-<a href="https://www.linkedin.com/in/vishnudas-python-developer/">
-  <img align="left" alt="LinkedIN" width="36px" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" />
- </a>
- </p>
- <br>
+```ascii
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│   [root@bluefox ~]# whoami                                  │
+│   > System Architect | Full Stack Dev | Open Source Creator  │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+```
 
-### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
-
-   hi, i'm [Vishnudas v](http://gitcub.co/), a passionate self-taught Python developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
-
-i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
-- 💼 Hire => [email](mailto:vishnudas956783@gmail.com) :)
-- 💬 ask me about anything, i am happy to help;
-
+<div align="center">
   
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=07D9C4&center=true&vCenter=true&width=940&lines=Welcome+to+my+digital+workshop!;Full+Stack+%7C+System+Design+%7C+Open+Source)](https://git.io/typing-svg)
 
+</div>
 
-<div align="">
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" height="320" />
+```bash
+[root@bluefox ~]# neofetch
+```
 
-### languages and tools:
+<div align="left">
 
-<img height="40" src="https://upload.wikimedia.org/wikiversity/en/8/8c/FastAPI_logo.png"/>
-<img height="40" src="https://img.icons8.com/stickers/100/000000/python.png"/>
-<img src="https://img.icons8.com/ios/50/000000/django.png"/>
-<img height="40" src="https://img.icons8.com/dotty/80/000000/api-settings.png"/> 
-<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
-<img src="https://img.icons8.com/color/48/000000/css3.png"/>
-<img src="https://img.icons8.com/color/48/000000/figma--v1.png"/>
-<img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
-<img src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
-<img src="https://img.icons8.com/color/48/000000/firebase.png"/>
-<img src="https://img.icons8.com/color/48/000000/docker.png"/>
-<img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
-<img src="https://img.icons8.com/officel/40/000000/selenium-test-automation.png"/>
-<img src="https://img.icons8.com/color/48/000000/web-scraper.png"/>
-<img src="https://img.icons8.com/color/48/000000/git.png"/>
-<img src="https://img.icons8.com/color/48/000000/linux--v1.png"/>
-<img src="https://img.icons8.com/color/48/000000/ruby-programming-language.png"/>
-<img src="https://img.icons8.com/office/40/000000/copyright.png"/>
-<img src="https://img.icons8.com/color/48/000000/c-plus-plus.png"/>
-<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
-<img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-lua-is-a-lightweight-multi-paradigm-programming-language-logo-shadow-tal-revivo.png"/>
-<img src="https://img.icons8.com/ios-filled/50/000000/flask.png"/>
- <div/>
+```python
+class BlueFoxDev:
+    def __init__(self):
+        self.name = "Vishnudas"
+        self.role = "System Architect & Full Stack Developer"
+        self.location = "/home/bluefox/workspace"
+        self.open_source = {
+            "material_charts": "https://pub.dev/packages/material_charts",
+            "github": "https://github.com/vishnudas-bluefox/material_charts"
+        }
+        self.portfolio = "https://vishnudas.netlify.app"
+        
+    def get_tech_stack(self):
+        return {
+            "languages": ["Python", "JavaScript", "C/C++", "Java", "Dart", "Lua", "Ruby"],
+            "backend": ["FastAPI", "Django", "Flask", "Node.js"],
+            "databases": ["MongoDB", "PostgreSQL", "MySQL", "Firebase", "DynamoDB"],
+            "messaging": ["Redis", "RabbitMQ"],
+            "devops": ["AWS", "Docker", "CI/CD"]
+        }
 
-<break>
- 
+    def get_current_status(self):
+        return "Building scalable systems and crafting elegant code"
+```
 
- 
- 
- <p>
-<div align="bottom">
-<img align="" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vishnudas-bluefox&theme=github_dark">
-<img align="" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vishnudas-bluefox&theme=github_dark">
+</div>
 
-<div/>
-<!--
- <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vishnudas-bluefox&theme=github_dark">
-    -->
- 
-<p align="center">
-if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈<br>
-<a href="https://buymeacoffee.com/vishnudas" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a><br>
-</p>
+```bash
+[root@bluefox ~]# tree ./skills/
+```
 
-  </div>
- <p/>
+<div align="center">
 
+| 💻 Programming | 🔧 Backend | 🗄️ Databases | ☁️ DevOps |
+|:-------------:|:----------:|:------------:|:---------:|
+| Python | FastAPI | MongoDB | AWS |
+| JavaScript | Django | PostgreSQL | Docker |
+| C/C++ | Flask | MySQL | CI/CD |
+| Java | Node.js | Firebase | EC2 |
+| Dart | Redis | DynamoDB | S3 |
+| Lua | RabbitMQ | | Lambda |
+| Ruby | | | |
+
+</div>
+
+```bash
+[root@bluefox ~]# ls ./projects/featured/
+```
+
+<div align="center">
+
+### 🌟 Featured Open Source Project: Material Charts
+[![Pub.dev](https://img.shields.io/badge/pub.dev-material_charts-0B688C?style=for-the-badge&logo=dart&logoColor=white)](https://pub.dev/packages/material_charts)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-F25C93?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vishnudas-bluefox/material_charts)
+
+</div>
+
+```bash
+[root@bluefox ~]# cat .gitconfig
+```
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-07D9C4?style=for-the-badge&logo=firefox&logoColor=white)](https://vishnudas.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0B688C?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishnudas-bluefox)
+[![GitHub](https://img.shields.io/badge/GitHub-F22797?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vishnudas-bluefox)
+
+</div>
+
+```bash
+[root@bluefox ~]# cat /etc/motd
+
+📫 Open to collaborations and interesting projects!
+🌟 Let's build something amazing together
+🚀 Currently working on scaling distributed systems
+```
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=vishnudas-bluefox&show_icons=true&title_color=F25C93&text_color=07D9C4&icon_color=F22797&bg_color=111826&hide_border=true" />
+
+![Visitors](https://api.visitorbadge.io/api/visitors?path=vishnudas-bluefox&label=Visitors&labelColor=111826&countColor=F25C93)
+
+</div>
