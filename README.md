@@ -51,7 +51,6 @@ class BlueFoxDev:
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-07D9C4?style=for-the-badge&logo=firefox&logoColor=white)](https://vishnudas.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0B688C?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishnudas-bluefox)
-[![GitHub](https://img.shields.io/badge/GitHub-F22797?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vishnudas-bluefox)
 
 </div>
 
