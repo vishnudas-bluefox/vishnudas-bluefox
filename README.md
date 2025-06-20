@@ -7,6 +7,11 @@
 └──────────────────────────────────────────────────────────────┘
 ```
 
+
+<div align="center">
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif" alt="Screenshot" width="500">
+</div>
+
 <div align="center">
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=07D9C4&center=true&vCenter=true&width=940&lines=Welcome+to+my+digital+workshop!;Full+Stack+%7C+System+Design+%7C+Open+Source)](https://git.io/typing-svg)
